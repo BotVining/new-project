@@ -10,3 +10,5 @@ def gigati(x,y):
         else:
             y -= 1
         print('x - y = ', x - y)
+
+gigati(1,19)
